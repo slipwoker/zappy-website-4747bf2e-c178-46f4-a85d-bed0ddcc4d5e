@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תכשיטים שנראים כמו ירושה יקרת ערך — אבל אפשר לקנות אותם עכשיו. של סבתא מביאה לך אקססוריז אופנתיים לנשים צעירות שיודעות מה הן שוות. קני עכשיו!
+
+### סיפור קולקציית הירושה
+https://example.com/the-inheritance
+קולקציית הירושה של של סבתא — תכשיטי אופנה אלגנטיים ונצחיים שמרגישים יוקרתיים על כל שורש כף יד. עיצובים עם נשמה שלא יוצאים מהמגמה לעולם. גלי את הקולקציה!
+
+### סיפור קולקציית הקיץ של סבתא
+https://example.com/grandmas-summer
+ברוכות הבאות לקיץ הכי שווה שסבתא הכינה לך — תכשיטי אופנה צבעוניים ומשוגעים שיהפכו כל לוק לסטייטמנט. אקססוריז קיץ לנשים שלא מתביישות לבלוט. קני עכשיו!
+
+### אודות המותג
+https://example.com/about
+של סבתא נולדה מרעיון אחד פשוט: למה לחכות לירושה? גלי את הסיפור מאחורי מותג התכשיטים והאקססוריז האופנתי שכובש את לב נשות ישראל בגיל 14 עד 30. זה המותג שלך.
+
+### צור קשר ושאלות נפוצות
+https://example.com/contact
+יש לך שאלה על תכשיטים, משלוחים או החלפות? צרי קשר עם של סבתא ותקבלי תשובה מהירה. כי שירות טוב הוא חלק מהירושה. מצאי את כל התשובות שלך כאן!
+
+### Products
+https://example.com/products
+המוצרים שלנו - של סבתא (Grandma's Jewelry)
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - של סבתא (Grandma's Jewelry)
+
+### Category
+https://example.com/category/:slug
+מוצרים - של סבתא (Grandma's Jewelry)
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
