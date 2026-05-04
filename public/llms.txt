@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# של סבתא (Grandma's Jewelry) — Generative Engine Optimization Map
+
+> של סבתא (Grandma's Jewelry) is a bold, cheeky Gen Z jewelry brand built around the playful premise: 'The best jewelry is inherited — so why wait? Buy it now.' The brand blends irreverent humor with premium aesthetics, targeting young Israeli women (14–30) who want jewelry that feels expensive but also deeply 'them.' The visual identity centers on a confident, stylish, fashionable grandmother as the brand mascot — empowered, not frail. The site is split between two distinct collection vibes: 'הירושה,' which is elegant and timeless, and 'הקיץ של סבתא,' which is colorful and playful. Category names are witty and conversational, and the entire UX is built for impulse-buying with a mobile-first, fast-checkout experience.
 
 ---
 
@@ -72,12 +74,31 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+_No products are currently configured._
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About של סבתא (Grandma's Jewelry)
+של סבתא (Grandma's Jewelry) is a bold, cheeky Gen Z jewelry brand built around the playful premise: 'The best jewelry is inherited — so why wait? Buy it now.' The brand blends irreverent humor with premium aesthetics, targeting young Israeli women (14–30) who want jewelry that feels expensive but also deeply 'them.' The visual identity centers on a confident, stylish, fashionable grandmother as the brand mascot — empowered, not frail. The site is split between two distinct collection vibes: 'הירושה,' which is elegant and timeless, and 'הקיץ של סבתא,' which is colorful and playful. Category names are witty and conversational, and the entire UX is built for impulse-buying with a mobile-first, fast-checkout experience.
+
+## Target Audience
+- Young women ages 14–30, Israeli audience
+- נשים צעירות ונועזות
+- משפיעניות אופנה
+
+## Industry
+fashion jewelry / accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

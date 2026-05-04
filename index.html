@@ -298,11 +298,17 @@
     </style>
 
     <style id="zappy-widget-visibility">
-      #mic-access-tool-general-button, .mic-access-tool-general-button,
-      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (max-width: 768px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
+      }
+      @media (min-width: 769px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
       }
     </style>
 </head>
@@ -322,7 +328,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "4747bf2e-c178-46f4-a85d-bed0ddcc4d5e";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
+<script>window.ZAPPY_WEBSITE_ID = "4747bf2e-c178-46f4-a85d-bed0ddcc4d5e";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1079,7 +1085,7 @@
       <!-- Card 3: Bracelets -->
       <article class="index-feature-card" data-grid-item-index="2">
         <div class="index-feature-card-img-wrap">
-          <div data-zappy-zoom-wrapper="true" data-element-id="img-1777838210712-f6qmzspat" data-element-type="image" data-zappy-zoom-wrapper-width="280px" data-zappy-zoom-wrapper-height="200px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 280px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 200px !important; display: block !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img data-placeholder="index-features-image-3" data-context="Flat-lay of fashion bracelets and bangles in gold and terracotta tones, stacked on warm cream background, some beaded, some chain-link, editorial still-life jewelry photography with warm lighting" width="400" height="260" src="/assets/site-index-features-image-3-1777846276820-ulnbqh.webp?v=1777846278850" alt="צמידים — אביזרי אופנה של סבתא" data-element-type="image" data-element-id="img-1777838210712-f6qmzspat" style="object-position: 13% 32% !important; margin: 0px !important; left: -5.2% !important; top: -14.8048% !important; width: 140% !important; height: 146.265% !important; max-width: none !important; max-height: none !important; display: block !important; object-fit: cover !important; position: absolute !important;" data-zappy-zoom="1.4" data-zappy-original-width="280.3999938964844" data-zappy-original-height="199.8625030517578" data-zappy-object-position="13% 32%"></div>
+          <div data-zappy-zoom-wrapper="true" data-element-id="img-1777838210712-f6qmzspat" data-element-type="image" data-zappy-zoom-wrapper-width="280px" data-zappy-zoom-wrapper-height="200px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 280px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 200px !important; display: block !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img data-placeholder="index-features-image-3" data-context="Flat-lay of fashion bracelets and bangles in gold and terracotta tones, stacked on warm cream background, some beaded, some chain-link, editorial still-life jewelry photography with warm lighting" width="400" height="260" src="/assets/site-index-features-image-3-1777916407237-shq312.webp?v=1777916409754" alt="צמידים — אביזרי אופנה של סבתא" data-element-type="image" data-element-id="img-1777838210712-f6qmzspat" style="object-position: 50% 50% !important; display: block; object-fit: cover; margin: 0px !important; left: -5.2% !important; top: -14.8048% !important; width: 140% !important; height: 146.265% !important; max-width: none !important; max-height: none !important; position: absolute !important;" data-zappy-zoom="1.4" data-zappy-original-width="280.3999938964844" data-zappy-original-height="199.8625030517578" data-zappy-object-position="50% 50%"></div>
           <p><span class="index-feature-card-badge" style="color: rgb(0, 0, 0) !important;">צמידים</span>
         </p></div>
         <div class="index-feature-card-body">
